@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ImageList.qml</file>
+        <file>MouseSelector.qml</file>
+    </qresource>
+</RCC>
